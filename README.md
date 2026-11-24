@@ -69,8 +69,8 @@ The training images come from the public Roboflow **Plank** dataset ([Liu, 2024]
 Python 3.11 is recommended.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone 
+cd FCM-NSGA-II-
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install numpy pandas scipy scikit-learn scikit-fuzzy pymoo matplotlib seaborn jupyter openpyxl
